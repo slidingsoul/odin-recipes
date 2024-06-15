@@ -1,0 +1,22 @@
+body {
+    background-color: #f8e5bb;
+    color: rgb(123, 63, 0);
+    
+}
+
+.first-heading {
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Garamond, serif;
+}
+
+.prompt, .unordered {
+    font-weight: 500;
+    font-size: 40px;
+    color: #ed365b;
+    font-family: Arial, Verdana, sans-serif;
+}
+.list {
+    color: #00008b;
+}
