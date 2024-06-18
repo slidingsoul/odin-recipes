@@ -3,3 +3,27 @@ body {
     color: rgb(123, 63, 0);
     
 }
+
+h2, h3 {
+    font-family: 'Courier New', monospace;
+    color: darksalmon;
+}
+
+.centering {
+    text-align: center;
+}
+
+ul, ol, p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black
+}
+
+h1 {
+    font-family: sans-serif;
+    font-size: 50px;
+}
+
+.back-to-index {
+    font-size: 35px;
+    color: blue;
+}
