@@ -1,0 +1,42 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #FFEDCE;
+}
+
+h1, h2, h3 {
+  font-family: 'Garamond', serif;
+  color: #FF3737;
+  text-align: center;
+  margin: 15px;
+}
+
+a:hover {
+  font-size: large;
+}
+
+a:hover, a:link, a:active, a:visited {
+  text-decoration: none;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+p {
+  text-align: center;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+li {
+  text-align: center;
+  list-style-position: inside;
+}
